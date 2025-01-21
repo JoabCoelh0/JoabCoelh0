@@ -39,7 +39,7 @@ Atualmente, estou explorando e desenvolvendo habilidades nas seguintes áreas:
 ## 📘 Diário de Aprendizado  
 Estou documentando meu progresso e projetos. Confira alguns exemplos:  
  
-  **[Engenharia de Software ](link)**( **1° Semestre** )  
+  **[Engenharia de Software ](link)**( **2° Semestre** )  
 
    - **Resumo**: Revisão e Seolução de Questões a respeito da matérias das Arquitetura de Computadores e Algoritimos Computacionais
 
