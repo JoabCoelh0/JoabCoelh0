@@ -3,11 +3,6 @@
 🎓 **Estudante de Engenharia de Software**  
 💻 **Apaixonado por aprender e construir soluções criativas**  
 
-## ⏳  Meu Progresso
-
-![Joab GitHub stats](https://github-readme-stats.vercel.app/api?username=JoabCoelh0&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoabCoelh0&layout=compact&theme=dracula)
-
 ## 🌱 Em aprendizado  
 Atualmente, estou explorando e desenvolvendo habilidades nas seguintes áreas:  
 - **Programação**: 
