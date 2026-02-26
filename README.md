@@ -34,9 +34,9 @@ Atualmente, estou explorando e desenvolvendo habilidades nas seguintes áreas:
 ## 📘 Diário de Aprendizado  
 Estou documentando meu progresso e projetos. Confira alguns exemplos:  
  
-  **[Engenharia de Software ](link)**( **3° Semestre** )  
+  **[Engenharia de Software ](link)**( **4° Semestre** )  
 
-   - **Resumo**: Revisão e Seolução de Questões a respeito da matérias das Arquitetura de Computadores e Algoritimos Computacionais
+   - **Resumo**: Estudando introdução a computação em nuvem e DevOps
 
    - **Habilidades praticadas**: Estruturas de dados e algoritmos.  
 
@@ -44,7 +44,7 @@ Estou documentando meu progresso e projetos. Confira alguns exemplos:
 
 ## 🎯 Objetivos Profissionais  
 🔍 **Busco oportunidades** de estágio ou projetos colaborativos onde eu possa:  
-- Aprender com profissionais experientes.  
+- Em busca de primeiro estagio.  
 - Aplicar o que estou estudando em problemas reais.  
 - Crescer na carreira como desenvolvedor.  
 
