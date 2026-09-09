@@ -10,7 +10,7 @@ Tenho interesse em **desenvolvimento web, backend, bancos de dados, cloud comput
 
 ---
 
-## 🌱 Em aprendizado
+## 🌱 Estudando
 
 Atualmente, estou estudando e desenvolvendo habilidades nas seguintes áreas:
 
